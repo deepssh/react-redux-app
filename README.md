@@ -1,15 +1,25 @@
-#### Get started with this App
+# ReduxSimpleStarter
 
-It is very simple to getting started with this app.
+Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+
+### Getting Started
+
+There are two methods for getting started with this repo.
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone
-> cd to download folder
+> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> cd ReduxSimpleStarter
 > npm install
 > npm start
 ```
 
-Update the API_KEY with your own api key for google you tube
+#### Not Familiar with Git?
+Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+
+```
+> npm install
+> npm start
+```
