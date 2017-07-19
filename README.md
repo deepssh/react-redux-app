@@ -8,3 +8,5 @@ For getting started with this repo. Checkout this repo, install dependencies, th
 > npm install
 > npm start
 ```
+
+This app is started app for React Redux
