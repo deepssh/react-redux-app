@@ -1,6 +1,6 @@
 #### Get started with this App
 
-There are two methods for getting started with this app.
+It is very simple to getting started with this app.
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
@@ -11,3 +11,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+
+Update the API_KEY with your own api key for google you tube
