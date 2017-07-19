@@ -5,8 +5,9 @@ const VideoDetail = ({video}) => {
   if (!video){
     return <div>Loading ...</div>
   };
-
+// this gets the information from video above
   const videoid = video.id.videoid;
+
   const url = `https://www.youtube.com/embed/${videoid}`;
   return(
     <div className="video-detail col-md-8">
