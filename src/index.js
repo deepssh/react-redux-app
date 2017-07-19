@@ -7,7 +7,6 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-// const API_KEY = 'AIzaSyBOTE2H0l67ZHI7SMy9FAxwtB2IjBdJb_M';
 const API_KEY = config.API_KEY;
 
 
